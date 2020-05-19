@@ -9,8 +9,6 @@ package com.example.calculator;
         import android.widget.Button;
         import android.widget.TextView;
 
-        import com.google.firebase.firestore.FirebaseFirestore;
-
         import java.text.DecimalFormat;
         import java.text.NumberFormat;
         import java.util.HashMap;
